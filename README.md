@@ -12,6 +12,19 @@ map the sentences to create a bilingual book, e.g.:
 * Sentence 1 language a
 * Sentence 1 language b
 
+Example output:
+
+    YOU don't know about me without you have read a book by the name of The
+    Adventures of Tom Sawyer; but that ain't no matter.
+
+    Da ihr gewiß schon die Abenteuer von Tom Sawyer gelesen habt, so brauche ich mich euch nicht vorzustellen.
+
+    That book was made
+    by Mr. Mark Twain, and he told the truth, mainly.
+
+    Jenes Buch hat ein gewisser Mark Twain geschrieben und was drinsteht ist wahr – wenigstens meistenteils.
+    ...
+
 
 # Description
 
