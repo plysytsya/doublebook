@@ -20,8 +20,8 @@ class SentenceMapperTest(unittest.TestCase):
 
     def setUp(self):
         warnings.filterwarnings("ignore", category=ResourceWarning, message="unclosed.*<ssl.SSLSocket.*>")
-        path_en = os.path.join(THIS_DIR, "test_data", "huckfinn_en.txt")
-        path_de = os.path.join(THIS_DIR, "test_data", "huckfinn_de.txt")
+        path_en = os.path.join(THIS_DIR, "test_data", "zen_en.txt")
+        path_de = os.path.join(THIS_DIR, "test_data", "zen_de.txt")
         self.mapper = SentenceMapper(path_en, path_de, "en", "de")
         self.source_sentence = "Hello, world!"
         self.target_sentences = [
@@ -40,12 +40,8 @@ class SentenceMapperTest(unittest.TestCase):
 
     def test_map_sentences(self):
         mapped_sentences = self.mapper.map_sentences()
-        for index, result in enumerate(mapped_sentences):
-            print("sentence number:", index)
-            print(result)
-            print('---------')
-        df = pd.DataFrame(mapped_sentences)
-        df.to_csv(os.path.join(THIS_DIR, "tmp", "test3.csv"))
+        #for index, result in enumerate(mapped_sentences):
+        #    pass
 
     def test_get_relative_distance(self):
         test_cases = [[5, 4, 0.8], [1, 1, 1], [0, 0, 1]]
