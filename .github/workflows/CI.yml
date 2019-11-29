@@ -21,6 +21,7 @@ jobs:
       run: |
         python setup.py develop
         python setup.py test
+        python ./tests/prepare_nltk.py
     - name: Upload coverage to Codecov  
       uses: codecov/codecov-action@v1.0.3
       with:
