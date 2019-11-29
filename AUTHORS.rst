@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Pavlo Lysytsya <pavlo.lysytsya@gmail.de>
+* Pavlo Lysytsya <pavlo.lysytsya@gmail.com>
