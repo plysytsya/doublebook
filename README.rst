@@ -6,11 +6,10 @@ doublebook
 Imagine you have the same ebook in two different langauges and you want to
 map the sentences to create a bilingual book, e.g.:
 
-Sentence 0 langauge a
-Sentence 0 langauge b
-Sentence 1 language a
-Sentence 1 language b
-...
+* Sentence 0 langauge a
+* Sentence 0 langauge b
+* Sentence 1 language a
+* Sentence 1 language b
 
 
 Description
@@ -27,4 +26,4 @@ If a given similarity-threshold is not reached it falls back to the translated s
 Note
 ====
 
-This is a work in project and does not yield reliable results yet. Feel free to contribute.
+This is a work in progress and does not yield reliable results yet. Feel free to contribute.
