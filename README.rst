@@ -1,3 +1,6 @@
+![GitHub Actions status | sdras/awesome-actions](https://github.com/plysytsya/doublebook/workflows/runtests/badge.svg)
+[![codecov](https://codecov.io/gh/plysytsya/doublebook/branch/master/graph/badge.svg)](https://codecov.io/gh/plysytsya/doublebook/branch/master/graph/badge.svg)
+
 ==========
 doublebook
 ==========
