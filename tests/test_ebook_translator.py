@@ -13,7 +13,7 @@ def get_mock_text(path):
         return file.read()
 
 
-class SentenceMapperTest(unittest.TestCase):
+class TestEbookTranslator(unittest.TestCase):
 
     def setUp(self):
         path = os.path.join(THIS_DIR, "test_data", "zen_en.txt")
