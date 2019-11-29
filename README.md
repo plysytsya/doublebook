@@ -1,9 +1,7 @@
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/plysytsya/doublebook/workflows/runtests/badge.svg)
 [![codecov](https://codecov.io/gh/plysytsya/doublebook/branch/master/graph/badge.svg)](https://codecov.io/gh/plysytsya/doublebook/branch/master/graph/badge.svg)
 
-==========
-doublebook
-==========
+# doublebook
 
 
 Imagine you have the same ebook in two different langauges and you want to
@@ -15,8 +13,8 @@ map the sentences to create a bilingual book, e.g.:
 * Sentence 1 language b
 
 
-Description
-===========
+# Description
+
 
 The SentenceMatchEngine takes two sources: text a and text b.
 Both sources must represent the same text in different languages.
@@ -26,7 +24,7 @@ sentences against sentences of text b. The core metric is a similarity-index.
 If a given similarity-threshold is not reached it falls back to the translated sentence.
 
 
-Note
-====
+# Note
+
 
 This is a work in progress and does not yield reliable results yet. Feel free to contribute.
