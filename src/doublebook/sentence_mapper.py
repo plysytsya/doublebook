@@ -1,9 +1,14 @@
+import os
+
 import gensim
 import numpy as np
 from nltk.tokenize import word_tokenize
 
 from .translator import Translator
 from .ebook import Ebook
+
+THIS_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(THIS_DIR)
 
 
 class SentenceMapper:
@@ -53,7 +58,8 @@ class SentenceMapper:
         dictionary = gensim.corpora.Dictionary(gen_docs)
         corpus = [dictionary.doc2bow(gen_doc) for gen_doc in gen_docs]
         tfidf = gensim.models.TfidfModel(corpus)
-        sims = gensim.similarities.Similarity('tmp/', tfidf[corpus], num_features=len(dictionary))
+        sims = gensim.similarities.Similarity(
+            os.path.join(THIS_DIR, 'tmp'), tfidf[corpus], num_features=len(dictionary))
         query_doc = [w.lower() for w in word_tokenize(source_sentence)]
         query_doc_bow = dictionary.doc2bow(query_doc)
         query_doc_tf_idf = tfidf[query_doc_bow]
