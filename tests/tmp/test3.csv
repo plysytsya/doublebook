@@ -1,0 +1,171 @@
+,source,mapped,similarity,wordcount_source,wordcount_mapped,absolute_distance,relative_distance,source_position,target_position
+0,"HUCKLEBERRY FINN
+
+Scene:  The Mississippi Valley Time:  Forty to fifty years ago
+
+
+
+
+CHAPTER I.","Huckleberry Finns Abenteuer und Fahrten
+
+1.",0.2920271158218384,17,7,10,0.4117647058823529,0,0
+1,"YOU don't know about me without you have read a book by the name of The
+Adventures of Tom Sawyer; but that ain't no matter.","Kapitel
+Huck soll sievilisiert werden – Moses in den Schilfern – Miss Watson – Tom Sawyer wartet
+Da ihr gewiß schon die Abenteuer von Tom Sawyer gelesen habt, so brauche ich mich euch nicht vorzustellen.",0.3231971561908722,29,37,-8,1.2758620689655173,1,1
+2,"That book was made
+by Mr. Mark Twain, and he told the truth, mainly.",Jenes Buch hat ein gewisser Mark Twain geschrieben und was drinsteht ist wahr – wenigstens meistenteils.,0.35386234521865845,17,17,0,1.0,2,2
+3,"There was things
+which he stretched, but mainly he told the truth.","Hie und da hat er etwas dazugedichtet, aber das tut nichts.",0.28654441237449646,14,13,1,0.9285714285714286,3,3
+4,That is nothing.,"Quält mich die Frau mit dem Moses, der sie weiter gar nichts angeht, der nicht einmal verwandt mit ihr war und mit dem jetzt nichts mehr anzufangen ist, und verbietet mir das Rauchen, das doch gewiß gar nicht so übel ist.",0.35432517528533936,4,46,-42,11.5,4,33
+5,"I
+never seen anybody but lied one time or another, without it was Aunt
+Polly, or the widow, or maybe Mary.","Ich kenne niemand, der nicht gelegentlich einmal ein bißchen lügen täte, ausgenommen etwa Tante Polly oder die Witwe Douglas oder Mary.",0.48817068338394165,25,24,1,0.96,5,4
+6,"Aunt Polly--Tom's Aunt Polly, she
+is--and Mary, and the Widow Douglas is all told about in that book, which
+is mostly a true book, with some stretchers, as I said before.","Toms Tante Polly und seine Schwester Mary und die Witwe Douglas kommen alle in dem Buche vom Tom Sawyer vor, das wie gesagt, mit wenigen Ausnahmen eine wahre Geschichte ist.",0.3861646354198456,42,33,9,0.7857142857142857,6,5
+7,"Now the way that the book winds up is this:  Tom and me found the money
+that the robbers hid in the cave, and it made us rich.","– Am Ende von dieser Geschichte wird erzählt, wie Tom und ich das Geld fanden, das die Räuber in der Höhle verborgen hatten, wodurch wir nachher sehr reich wurden.",0.3374366760253906,31,33,-2,1.064516129032258,7,6
+8,"We got six
+thousand dollars apiece--all gold.","Jeder von uns bekam sechstausend Dollars, lauter Gold.",0.18155841529369354,10,10,0,1.0,8,7
+9,"It was an awful sight of money when
+it was piled up.","Es war ein großartiger Anblick, als wir das Geld auf einem Haufen liegen sahen.",0.4459654986858368,13,16,-3,1.2307692307692308,9,8
+10,"Well, Judge Thatcher he took it and put it out
+at interest, and it fetched us a dollar a day apiece all the year
+round--more than a body could tell what to do with.","Kreisrichter Thatcher bewahrte meinen Teil auf und legte ihn auf Zinsen an, die jeden Tag einen Dollar für mich ausmachen.",0.2253957986831665,39,22,17,0.5641025641025641,10,9
+11,"The Widow Douglas
+she took me for her son, and allowed she would sivilize me; but it was
+rough living in the house all the time, considering how dismal regular
+and decent the widow was in all her ways; and so when I couldn't stand
+it no longer I lit out.","Die Witwe Douglas nahm mich als Sohn an und will versuchen, mich zu sievilisieren wie sie sagt.",0.28739669919013977,57,19,38,0.3333333333333333,11,11
+12,"I got into my old rags and my sugar-hogshead
+again, and was free and satisfied.","Einmal bin ich auch schon durchgebrannt, bin in meine alten Lumpen gekrochen, und – hast du nicht gesehen, war ich draußen im Wald und in der Freiheit.",0.34803152084350586,17,31,-14,1.8235294117647058,12,13
+13,"But Tom Sawyer he hunted me up and
+said he was going to start a band of robbers, and I might join if I
+would go back to the widow and be respectable.","Tom Sawyer aber, mein alter Freund Tom, spürte mich wieder auf, versprach, er wolle eine Räuberbande gründen und ich solle Mitglied werden, wenn ich noch einmal zu der Witwe zurückkehre und mich weiter ›sievilisieren‹ lasse.",0.3257743716239929,35,41,-6,1.1714285714285715,13,14
+14,So I went back.,Überhaupt ging's nun vorwärts im alten Trab.,0.35740721225738525,5,9,-4,1.8,14,18
+15,"The widow she cried over me, and called me a poor lost lamb, and she
+called me a lot of other names, too, but she never meant no harm by
+it.","Da wurde sie böse und zeterte gewaltig, so schlimm hatte ich's aber gar nicht gemeint, ich wäre nur gern fortgewesen von ihr, irgendwo, der Ort war mir ganz einerlei, ich bin überhaupt nie sehr wählerisch.",0.24948282539844513,36,42,-6,1.1666666666666667,15,41
+16,"She put me in them new clothes again, and I couldn't do nothing but
+sweat and sweat, and feel all cramped up.","Sie steckte mich wieder in die neuen Kleider, in denen es mir immer ganz eng und schwül wird.",0.2461789846420288,26,20,6,0.7692307692307693,16,17
+17,"Well, then, the old thing
+commenced again.","Ihre Schwester, Miss Watson, eine ziemlich dürre, alte Jungfer, die gerade zu ihr gezogen war, machte nun einen Angriff auf mich, mit einem Lesebuch bewaffnet.",0.24142788350582123,10,32,-22,3.2,17,35
+18,"The widow rung a bell for supper, and you had to come
+to time.","Wenn die Witwe die Glocke läutete, mußte man zum Essen kommen.",0.6711655259132385,16,13,3,0.8125,18,19
+19,"When you got to the table you couldn't go right to eating, but
+you had to wait for the widow to tuck down her head and grumble a little
+over the victuals, though there warn't really anything the matter with
+them,--that is, nothing only everything was cooked by itself.","Saß man dann glücklich am Tisch, so konnte man nicht flott drauflos an die Arbeit gehen, Gott bewahre, da mußte man abwarten bis die Witwe den Kopf zwischen die Schultern gezogen und ein bißchen was vor sich hingemurmelt hatte.",0.2888135313987732,58,43,15,0.7413793103448276,19,20
+20,"In a
+barrel of odds and ends it is different; things get mixed up, and the
+juice kind of swaps around, and the things go better.","Es war ein großartiger Anblick, als wir das Geld auf einem Haufen liegen sahen.",0.22515711188316345,30,16,14,0.5333333333333333,20,8
+21,"After supper she got out her book and learned me about Moses and the
+Bulrushers, and I was in a sweat to find out all about him; but by and
+by she let it out that Moses had been dead a considerable long time; so
+then I didn't care no more about him, because I don't take no stock in
+dead people.","Nach dem Essen zog sie dann ein Buch heraus und las mir von Moses in den Schilfern vor und ich brannte drauf, alles von dem armen kleinen Kerl zu hören.",0.20591817796230316,69,32,37,0.463768115942029,21,24
+22,"Pretty soon I wanted to smoke, and asked the widow to let me.","Na, da war ich aber böse und wollte nichts weiter wissen – was gehen mich tote und begrabene Leute an?",0.1465015411376953,15,22,-7,1.4666666666666666,22,26
+23,"But she
+wouldn't.","Sie aber lärmte weiter und sagte, ich sei ein böser Junge, wenn ich so etwas sagen könne, sie würde das nicht um die Welt über die Lippen bringen, ihr Leben solle so sein, daß sie dermaleinst mit Freuden in den Himmel fahre.",0.2813735008239746,5,48,-43,9.6,23,42
+24,"She said it was a mean practice and wasn't clean, and I must
+try to not do it any more.","Sie sagte, das gehöre sich nicht für mich und sei überhaupt »eine gemeine und unsaubere Gewohnheit«, an die ich nicht mehr denken dürfe.",0.20423853397369385,23,28,-5,1.2173913043478262,24,30
+25,That is just the way with some people.,"Quält mich die Frau mit dem Moses, der sie weiter gar nichts angeht, der nicht einmal verwandt mit ihr war und mit dem jetzt nichts mehr anzufangen ist, und verbietet mir das Rauchen, das doch gewiß gar nicht so übel ist.",0.2847059965133667,9,46,-37,5.111111111111111,25,33
+26,"They
+get down on a thing when they don't know nothing about it.","Na, da war ich aber böse und wollte nichts weiter wissen – was gehen mich tote und begrabene Leute an?",0.22474059462547302,15,22,-7,1.4666666666666666,26,26
+27,"Here she was
+a-bothering about Moses, which was no kin to her, and no use to anybody,
+being gone, you see, yet finding a power of fault with me for doing a
+thing that had some good in it.","Da kroch mir auch noch eine Spinne über die linke Schulter, ich schnellte sie weg und gerade ins Licht, und ehe ich noch zuspringen konnte, war sie verbrannt.",0.23924797773361206,45,32,13,0.7111111111111111,27,60
+28,"And she took snuff, too; of course that
+was all right, because she done it herself.","Na, und dabei schnupft sie, aber das ist natürlich ganz was andres und kein Fehler, weil sie's eben selbst tut.",0.41066670417785645,20,25,-5,1.25,28,34
+29,"Her sister, Miss Watson, a tolerable slim old maid, with goggles on,
+had just come to live with her, and took a set at me now with a
+spelling-book.","Ihre Schwester, Miss Watson, eine ziemlich dürre, alte Jungfer, die gerade zu ihr gezogen war, machte nun einen Angriff auf mich, mit einem Lesebuch bewaffnet.",0.6155232191085815,35,32,3,0.9142857142857143,29,35
+30,"She worked me middling hard for about an hour, and then
+the widow made her ease up.","Eine Stunde lang mußte ich ihr standhalten und dann löste sie die Witwe mit ihrem Moses wieder ab, und ich war nun sozusagen zwischen zwei Feuern.",0.21639566123485565,19,28,-9,1.4736842105263157,30,36
+31,I couldn't stood it much longer.,"Lange konnte das nicht so weitergehen, und es trat denn auch glücklicherweise bald eine Stunde Pause ein.",0.2494959831237793,8,19,-11,2.375,31,37
+32,"Then for
+an hour it was deadly dull, and I was fidgety.","Lange konnte das nicht so weitergehen, und es trat denn auch glücklicherweise bald eine Stunde Pause ein.",0.26722872257232666,14,19,-5,1.3571428571428572,32,37
+33,"Miss Watson would say,
+“Don't put your feet up there, Huckleberry;” and “Don't scrunch up
+like that, Huckleberry--set up straight;” and pretty soon she would
+say, “Don't gap and stretch like that, Huckleberry--why don't you try to
+behave?”  Then she told me all about the bad place, and I said I wished
+I was there.","Alsbald begann Miss Watson: »Halt doch die Füße ruhig, Huckleberry«, oder »willst du keinen solchen Buckel machen, Huckleberry, sitz doch gerade!« und dann wieder »so recke dich doch nicht so, Huckleberry, und gähne nicht, als wolltest du die Welt verschlingen, wirst du denn nie Manieren lernen?«, und so schalt sie weiter bis ich ganz wild wurde.",0.30432403087615967,79,75,4,0.9493670886075949,33,39
+34,"She got mad then, but I didn't mean no harm.","Na, da war ich aber böse und wollte nichts weiter wissen – was gehen mich tote und begrabene Leute an?",0.17280960083007812,13,22,-9,1.6923076923076923,34,26
+35,"All I wanted
+was to go somewheres; all I wanted was a change, I warn't particular.","Na, da war ich aber böse und wollte nichts weiter wissen – was gehen mich tote und begrabene Leute an?",0.3490617871284485,20,22,-2,1.1,35,26
+36,"She said it was wicked to say what I said; said she wouldn't say it for
+the whole world; she was going to live so as to go to the good place.","Sie aber lärmte weiter und sagte, ich sei ein böser Junge, wenn ich so etwas sagen könne, sie würde das nicht um die Welt über die Lippen bringen, ihr Leben solle so sein, daß sie dermaleinst mit Freuden in den Himmel fahre.",0.3041538894176483,36,48,-12,1.3333333333333333,36,42
+37,"Well, I couldn't see no advantage in going where she was going, so I
+made up my mind I wouldn't try for it.","Sie aber lärmte weiter und sagte, ich sei ein böser Junge, wenn ich so etwas sagen könne, sie würde das nicht um die Welt über die Lippen bringen, ihr Leben solle so sein, daß sie dermaleinst mit Freuden in den Himmel fahre.",0.17435744404792786,28,48,-20,1.7142857142857142,37,42
+38,"But I never said so, because it
+would only make trouble, and wouldn't do no good.","Sie aber lärmte weiter und sagte, ich sei ein böser Junge, wenn ich so etwas sagen könne, sie würde das nicht um die Welt über die Lippen bringen, ihr Leben solle so sein, daß sie dermaleinst mit Freuden in den Himmel fahre.",0.17976486682891846,20,48,-28,2.4,38,42
+39,"Now she had got a start, and she went on and told me all about the good
+place.","Sie war aber nun einmal am Himmel, dem Ort der Glückseligen, wie sie's nannte, angelangt und teilte mir alles mit, was sie drüber wußte.",0.1981758177280426,20,30,-10,1.5,39,45
+40,"She said all a body would have to do there was to go around all
+day long with a harp and sing, forever and ever.","Sie sagte, alles was man dort zu tun habe, sei, den ganzen Tag lang mit einer Harfe herumzumarschieren und dazu zu singen immer und ewig.",0.7030307054519653,27,29,-2,1.0740740740740742,40,46
+41,"So I didn't think
+much of it.","Eigentlich mag ich das viel lieber, da kriegt man so einen tüchtigen Mund voll Brühe dabei und die hilft alles glatt hinunterspülen.",0.26029035449028015,9,24,-15,2.6666666666666665,41,22
+42,But I never said so.,"Sie sagte, alles was man dort zu tun habe, sei, den ganzen Tag lang mit einer Harfe herumzumarschieren und dazu zu singen immer und ewig.",0.19918890297412872,6,29,-23,4.833333333333333,42,46
+43,"I asked her if she reckoned Tom Sawyer
+would go there, and she said not by a considerable sight.","Das leuchtete mir nun gar nicht ein, ich schwieg aber und fragte nur, ob sie meine, mein Freund Tom Sawyer werde auch dort hinkommen, was sie ziemlich bestimmt verneinte.",0.3144362270832062,21,34,-13,1.619047619047619,43,47
+44,"I was glad
+about that, because I wanted him and me to be together.","Na, da war ich aber böse und wollte nichts weiter wissen – was gehen mich tote und begrabene Leute an?",0.16450375318527222,16,22,-6,1.375,44,26
+45,"Miss Watson she kept pecking at me, and it got tiresome and lonesome.","Miss Watson predigte immer weiter, und mir wurde dabei ganz elend zumute.",0.2725726068019867,15,14,1,0.9333333333333333,45,49
+46,"By and by they fetched the niggers in and had prayers, and then
+everybody was off to bed.","Dann kamen die Nigger herein, es wurde gebetet, und jedermann ging zu Bett.",0.3149411678314209,20,16,4,0.8,46,50
+47,"I went up to my room with a piece of candle,
+and put it on the table.",Ich stieg mit meinem Stummel Kerze in mein Zimmer hinauf und stellte das Licht auf den Tisch.,0.4966297745704651,19,18,1,0.9473684210526315,47,52
+48,"Then I set down in a chair by the window and
+tried to think of something cheerful, but it warn't no use.","Dann setzte ich mich auf einen Stuhl vors Fenster und probierte, an etwas Lustiges zu denken.",0.3918343186378479,25,18,7,0.72,48,53
+49,"I felt
+so lonesome I most wished I was dead.","Ich fühlte mich so allein, daß ich wünschte, ich wäre tot.",0.7658431529998779,11,14,-3,1.2727272727272727,49,55
+50,"The stars were shining, and the
+leaves rustled in the woods ever so mournful; and I heard an owl, away
+off, who-whooing about somebody that was dead, and a whippowill and a
+dog crying about somebody that was going to die; and the wind was trying
+to whisper something to me, and I couldn't make out what it was, and so
+it made the cold shivers run over me.","Ich hörte aus der Ferne eine Eule, deren Schrei jemandes Tod bedeutete, und dann einen Hund, dessen klägliches Geheul verkündete, daß einer im Sterben liege, und der Wind schien mir etwas klagen zu wollen, was ich nicht verstand, so daß ich bald am ganzen Leibe zitterte und mir der kalte Schweiß auf die Stirne trat.",0.2620941400527954,79,63,16,0.7974683544303798,50,57
+51,"Then away out in the woods I heard
+that kind of a sound that a ghost makes when it wants to tell about
+something that's on its mind and can't make itself understood, and so
+can't rest easy in its grave, and has to go about that way every night
+grieving.","Sie nützen wohl, wenn man ein gefundenes Hufeisen wieder verliert, anstatt es über der Türe anzunageln, oder bei dergleichen kleineren Fällen; wenn man aber eine Spinne getötet hat, da weiß ich nicht, was man tun kann, um das Unglück fernzuhalten.",0.21644306182861328,57,48,9,0.8421052631578947,51,63
+52,"I got so down-hearted and scared I did wish I had some
+company.","Sie sagte, alles was man dort zu tun habe, sei, den ganzen Tag lang mit einer Harfe herumzumarschieren und dazu zu singen immer und ewig.",0.23336473107337952,14,29,-15,2.0714285714285716,52,46
+53,"Pretty soon a spider went crawling up my shoulder, and I
+flipped it off and it lit in the candle; and before I could budge it
+was all shriveled up.","Lange konnte das nicht so weitergehen, und es trat denn auch glücklicherweise bald eine Stunde Pause ein.",0.26547786593437195,33,19,14,0.5757575757575758,53,37
+54,"I didn't need anybody to tell me that that was
+an awful bad sign and would fetch me some bad luck, so I was scared
+and most shook the clothes off of me.","Daß das ein schlimmes Zeichen ist, weiß jedes Kind, und mir schlotterten die Knie, als ich nun begann meine Kleider abzuwerfen.",0.23976460099220276,36,25,11,0.6944444444444444,54,61
+55,"I got up and turned around in my
+tracks three times and crossed my breast every time; and then I tied
+up a little lock of my hair with a thread to keep witches away.","Ich drehte mich dreimal um mich selbst und schlug mich dabei jedesmal an die Brust, nahm dann einen Faden und band mir ein Büschel Haare zusammen, um die bösen Geister fernzuhalten; doch hatte ich kein großes Vertrauen zu diesen Mitteln.",0.34392866492271423,37,44,-7,1.1891891891891893,55,62
+56,"But
+I hadn't no confidence.","Ich drehte mich dreimal um mich selbst und schlug mich dabei jedesmal an die Brust, nahm dann einen Faden und band mir ein Büschel Haare zusammen, um die bösen Geister fernzuhalten; doch hatte ich kein großes Vertrauen zu diesen Mitteln.",0.3032820224761963,7,44,-37,6.285714285714286,56,62
+57,"You do that when you've lost a horseshoe that
+you've found, instead of nailing it up over the door, but I hadn't ever
+heard anybody say it was any way to keep off bad luck when you'd killed
+a spider.","Sie nützen wohl, wenn man ein gefundenes Hufeisen wieder verliert, anstatt es über der Türe anzunageln, oder bei dergleichen kleineren Fällen; wenn man aber eine Spinne getötet hat, da weiß ich nicht, was man tun kann, um das Unglück fernzuhalten.",0.34520500898361206,47,48,-1,1.0212765957446808,57,63
+58,"I set down again, a-shaking all over, and got out my pipe for a smoke;
+for the house was all as still as death now, and so the widow wouldn't
+know.",Das Haus war so still und die Witwe nicht in meiner Nähe.,0.31017249822616577,36,13,23,0.3611111111111111,58,65
+59,"Well, after a long time I heard the clock away off in the town
+go boom--boom--boom--twelve licks; and all still again--stiller than
+ever.","Da kroch mir auch noch eine Spinne über die linke Schulter, ich schnellte sie weg und gerade ins Licht, und ehe ich noch zuspringen konnte, war sie verbrannt.",0.28346315026283264,34,32,2,0.9411764705882353,59,60
+60,"Pretty soon I heard a twig snap down in the dark amongst the
+trees--something was a stirring.","Plötzlich höre ich etwas unten im Garten unter den Bäumen, ein Rascheln und Knacken, ich halte den Atem an und lausche.",0.2520238757133484,20,24,-4,1.2,60,68
+61,I set still and listened.,"Sie sagte, alles was man dort zu tun habe, sei, den ganzen Tag lang mit einer Harfe herumzumarschieren und dazu zu singen immer und ewig.",0.2741859555244446,6,29,-23,4.833333333333333,61,46
+62,"Directly I
+could just barely hear a “me-yow!","Da kroch mir auch noch eine Spinne über die linke Schulter, ich schnellte sie weg und gerade ins Licht, und ehe ich noch zuspringen konnte, war sie verbrannt.",0.4805295169353485,10,32,-22,3.2,62,60
+63,me-yow!” down there.,"Sprechen über etwas, das sie gar nicht verstehen!",0.23910127580165863,6,10,-4,1.6666666666666667,63,32
+64,That was good!,"Alsbald begann Miss Watson: »Halt doch die Füße ruhig, Huckleberry«, oder »willst du keinen solchen Buckel machen, Huckleberry, sitz doch gerade!« und dann wieder »so recke dich doch nicht so, Huckleberry, und gähne nicht, als wolltest du die Welt verschlingen, wirst du denn nie Manieren lernen?«, und so schalt sie weiter bis ich ganz wild wurde.",0.11331075429916382,4,75,-71,18.75,64,39
+65,"Says I, “me-yow!","Alsbald begann Miss Watson: »Halt doch die Füße ruhig, Huckleberry«, oder »willst du keinen solchen Buckel machen, Huckleberry, sitz doch gerade!« und dann wieder »so recke dich doch nicht so, Huckleberry, und gähne nicht, als wolltest du die Welt verschlingen, wirst du denn nie Manieren lernen?«, und so schalt sie weiter bis ich ganz wild wurde.",0.12768328189849854,6,75,-69,12.5,65,39
+66,"me-yow!” as soft as I could, and then I put out the
+light and scrambled out of the window on to the shed.","Und »miau, miau« antworte ich ebenso kläglich, ebenso leise, schlüpfe rasch in meine Kleider, lösche das Licht aus und steige durch das Fenster auf das Schuppendach.",0.2299048751592636,27,33,-6,1.2222222222222223,66,71
+67,"Then I slipped
+down to the ground and crawled in among the trees, and, sure enough,
+there was Tom Sawyer waiting for me.","Dann lasse ich mich zu Boden gleiten, krieche auf allen vieren nach den Schatten der Bäume, und da war richtig und leibhaftig Tom Sawyer, mein alter Tom, und wartete auf mich.",0.43833085894584656,27,36,-9,1.3333333333333333,67,72
