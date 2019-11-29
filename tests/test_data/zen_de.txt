@@ -3,7 +3,7 @@ Ausdrücklich ist besser als indirekt.
 Einfach ist besser als komplex.
 Komplex ist besser als kompliziert.
 Direkt ist besser als verschachtelt.
-Licht ist besser als dicht.
+Weniger ist mehr.
 Lesbarkeit zählt.
 Spezialfälle sind nie speziell genug, um die Regeln zu brechen.
 Dennoch geht Machbarkeit vor Regeltreue.
