@@ -3,17 +3,28 @@ doublebook
 ==========
 
 
-Add a short description here!
+Imagine you have the same ebook in two different langauges and you want to
+map the sentences to create a bilingual book, e.g.:
+
+Sentence 0 langauge a
+Sentence 0 langauge b
+Sentence 1 language a
+Sentence 1 language b
+...
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+The SentenceMatchEngine takes two sources: text a and text b.
+Both sources must represent the same text in different languages.
+The goal is to match sentences of the two languages.
+To achieve this it first translates text a validating the translated
+sentences against sentences of text b. The core metric is a similarity-index.
+If a given similarity-threshold is not reached it falls back to the translated sentence.
 
 
 Note
 ====
 
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+This is a work in project and does not yield reliable results yet. Feel free to contribute.
