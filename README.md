@@ -3,7 +3,7 @@
 
 # doublebook
 
-
+The intention of this project is to create ebooks which you can use to learn a foreign language.
 Imagine you have the same ebook in two different langauges and you want to
 map the sentences to create a bilingual book, e.g.:
 
@@ -18,8 +18,6 @@ map the sentences to create a bilingual book, e.g.:
 
     Jenes Buch hat ein gewisser Mark Twain geschrieben und was drinsteht ist wahr –
     wenigstens meistenteils.
-
-The intention of this project is to create ebooks which you can use to learn a foreign language.
 
 # Description
 
