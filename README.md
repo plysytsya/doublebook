@@ -7,11 +7,19 @@
 Imagine you have the same ebook in two different langauges and you want to
 map the sentences to create a bilingual book, e.g.:
 
-* Sentence 0 langauge a
-* Sentence 0 langauge b
-* Sentence 1 language a
-* Sentence 1 language b
+    YOU don't know about me without you have read a book by the name of The
+    Adventures of Tom Sawyer; but that ain't no matter.
 
+    Da ihr gewiß schon die Abenteuer von Tom Sawyer gelesen habt,
+    so brauche ich mich euch nicht vorzustellen.
+
+    That book was made
+    by Mr. Mark Twain, and he told the truth, mainly.
+
+    Jenes Buch hat ein gewisser Mark Twain geschrieben und was drinsteht ist wahr –
+    wenigstens meistenteils.
+
+The intention of this project is to create ebooks which you can use to learn a foreign language.
 
 # Description
 
